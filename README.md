@@ -24,5 +24,5 @@ Undergraduate research project on the design, modeling, and development of a cab
 ---
 
 ## Weekly Progress
-Week 1 - (docs/weekly_logs/Week01.md)
+Week 1 - docs/weekly_logs/Week01.md
 
